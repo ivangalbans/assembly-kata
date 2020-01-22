@@ -1,10 +1,10 @@
-Somes popular problems. Assembly x86
+Popular problems in Assembly x86
 ======================================
 
 Description
 -----------
 
-Somes popular programming problems implemented in Assembly x86 and IDE sasm are presented in this project.
+Popular programming problems implemented in Assembly x86 and IDE sasm.
 
 Collaboration
 -------------
